@@ -1,3 +1,3 @@
 # New Project
 This project was created from local system.
-created by Atharv Kulkarni.
+created by Atharv Suyog Kulkarni.
